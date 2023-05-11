@@ -59,6 +59,7 @@ dlldata.c
 *.vspscc
 *.vssscc
 .builds
+.vs
 *.pidb
 *.svclog
 *.scc
